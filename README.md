@@ -13,6 +13,6 @@ The project uses the following peripherals of the AtMega328P
 * Watchdog // For general reliability 
 * TimerOne/Counter 
 * A/D Conv // For the microphone/audio sensor
-* USART // For the RF transmission
+* EEPROM // For saving the counter value
 
 Due to Tampere Univeristy of Applied Sciences information confidentiality rules some documentation will be redacted to not include sensitive information
